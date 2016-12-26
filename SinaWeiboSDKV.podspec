@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'SinaWeiboSDKV'
-  s.version      = '3.1.4'
+  s.version      = '3.1.4.1'
   s.summary      = '需要用到Sina WeiboSDK的某些特定版本，所以做了个Pod上来，方便自己管理版本'
   s.description  = <<-DESC
                    This pod is used who want to use Sina WeiboSDK for some specified version with podfile.
